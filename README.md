@@ -1,2 +1,2 @@
 # GITHUB.example
-This is a git hub example.
+This is some new text.
